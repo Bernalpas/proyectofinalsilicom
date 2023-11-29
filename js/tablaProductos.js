@@ -26,7 +26,7 @@ let persona = {
 }
 
 console.log(persona.nombre);
-console.log(misProductos[1].nombreProducto);
+//console.log(misProductos[1].nombreProducto);
 
 console.log('====================================================');
 
